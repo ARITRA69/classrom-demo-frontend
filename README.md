@@ -4,7 +4,7 @@ I've built the frontend UI for an **Online Classroom** site using NEXT.js (React
 
 ### Some Assumptions
 
-I have added modal for contact and support button. I mobile screen the side bar is hidden and will appear when the button beside _Basic Mathematics 101_ is clicked
+I have added modal for contact and support buttons. In mobile screen the sidebar is hidden and will appear when the button beside _Basic Mathematics 101_ is clicked
 
 ## Demo
 
